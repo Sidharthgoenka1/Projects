@@ -1,0 +1,15 @@
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\bin\Debug\net6.0\TestProj.exe
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\bin\Debug\net6.0\TestProj.deps.json
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\bin\Debug\net6.0\TestProj.runtimeconfig.json
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\bin\Debug\net6.0\TestProj.dll
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\bin\Debug\net6.0\TestProj.pdb
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.csproj.AssemblyReference.cache
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfoInputs.cache
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfo.cs
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.csproj.CoreCompileInputs.cache
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.dll
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\refint\TestProj.dll
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.pdb
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\TestProj.genruntimeconfig.cache
+E:\GitRepo\Projects\AdvApplicationDev\TestProj\obj\Debug\net6.0\ref\TestProj.dll
