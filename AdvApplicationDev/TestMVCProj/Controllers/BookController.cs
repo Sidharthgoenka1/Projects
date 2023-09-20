@@ -1,38 +1,43 @@
-using System;
-using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using TestMVCProj.Models;
+using TestMVCProj.ViewModels;
 
 namespace TestMVCProj.Controllers
 {
     public class BookController : Controller
     {
-
-        private readonly AppDbContext _dbContext;
-
-        public BookController(AppDbContext dbContext)
+        public IActionResult Details(int id)
         {
-            _dbContext = dbContext;
-        }
+            // Simulated data access
+            Book book = new Book
+            {
+                BookId = 1,
+                Title = "Sample Book",
+                AuthorId = 1,
+                LibraryBranchId = 1
+            };
 
-        public IActionResult Index()
-        {
-            var books = _dbContext.Books.ToList();
-            return View(books);
-        }
+            Author author = new Author
+            {
+               AuthorId = 1,
+               Name = "John Doe"
+            };
 
-        public IActionResult Create()
-        {
-            return View();
-        }
+            LibraryBranch branch = new LibraryBranch
+            {
+                LibraryBranchId = 1,
+                BranchName = "Main Branch"
+            };
 
-        [HttpPost]
-        public IActionResult Create(Book book)
-        {
-            // book.CreatedAt = DateTime.Now;
-            _dbContext.Books.Add(book);
-            _dbContext.SaveChanges();
-            return RedirectToAction("BookDetails");
-        }
+            BookViewModel viewModel = new BookViewModel
+            {
+                BookId = book.BookId,
+                Title = book.Title,
+                AuthorName = author.Name,
+                BranchName = branch.BranchName
+            };
+
+            return View(viewModel);
+         }
     }
 }

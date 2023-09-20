@@ -1,17 +1,7 @@
-using System;
-using System.ComponentModel.DataAnnotations;
-
-namespace TestMVCProj.Models
+public class Book
 {
-    public class Book
-    {
-        [Key]
-        public int BookId { get; set; }
-        
-        [Required]
-        public string Title { get; set; }
-
-        [Required]
-        public int AuthorId { get; set; }
-    }
+    public int BookId { get; set; }
+    public string Title { get; set; }
+    public int AuthorId { get; set; }
+    public int LibraryBranchId { get; set; }
 }
