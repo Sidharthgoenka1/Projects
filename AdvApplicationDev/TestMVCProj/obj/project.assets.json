@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+      "projectUniqueName": "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
       "projectName": "TestMVCProj",
-      "projectPath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+      "projectPath": "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
       "packagesPath": "C:\\Users\\17788\\.nuget\\packages\\",
-      "outputPath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
+      "outputPath": "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\17788\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\17788\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
