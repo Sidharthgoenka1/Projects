@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {}
+    "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {}
   },
   "projects": {
-    "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {
+    "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+        "projectUniqueName": "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
         "projectName": "TestMVCProj",
-        "projectPath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+        "projectPath": "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
         "packagesPath": "C:\\Users\\17788\\.nuget\\packages\\",
-        "outputPath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
+        "outputPath": "e:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\17788\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

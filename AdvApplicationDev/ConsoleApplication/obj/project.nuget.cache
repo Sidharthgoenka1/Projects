@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "auIg9aCyCwQKqjeIViW7kqQI2GHnXUDxYShJenfdmm0uvLgDkgTjim9K+PfSoZVebcdpk5wXBsCnUJd4I1hE0Q==",
+  "success": true,
+  "projectFilePath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\ConsoleApplication\\ConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17788\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\17788\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
