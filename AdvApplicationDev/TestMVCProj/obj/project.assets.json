@@ -1319,11 +1319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+      "projectUniqueName": "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
       "projectName": "TestMVCProj",
-      "projectPath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+      "projectPath": "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
       "packagesPath": "C:\\Users\\17788\\.nuget\\packages\\",
-      "outputPath": "E:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
+      "outputPath": "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\17788\\AppData\\Roaming\\NuGet\\NuGet.Config",

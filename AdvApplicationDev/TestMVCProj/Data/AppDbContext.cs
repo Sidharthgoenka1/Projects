@@ -1,22 +1,15 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using TestMVCProj.Models;
 
-namespace TestMVCProj.Data
+namespace TestMVCProj
 {
-    public class AppDbContext : DbContext
+public class AppDbContext : DbContext
     {
+        public DbSet<Models.Post> Posts { get; set; }
         private readonly IConfiguration _configuration;
-
-        public AppDbContext(DbContextOptions<AppDbContext> options, IConfiguration configuration) : base(options)
+        public AppDbContext(IConfiguration configuration)
         {
             _configuration = configuration;
         }
-
-        public DbSet<Book> Books { get; set; }
-        public DbSet<Author> Authors { get; set; }
-        public DbSet<LibraryBranch> LibraryBranches { get; set; }
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite(_configuration.GetConnectionString("DefaultConnection"));
