@@ -1,4 +1,4 @@
-using BlogApp;
+using TestMVCProj;
 
 
 var builder = WebApplication.CreateBuilder(args);
