@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {}
+    "F:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {}
   },
   "projects": {
-    "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {
+    "F:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+        "projectUniqueName": "F:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
         "projectName": "TestMVCProj",
-        "projectPath": "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
+        "projectPath": "F:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\TestMVCProj.csproj",
         "packagesPath": "C:\\Users\\17788\\.nuget\\packages\\",
-        "outputPath": "f:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
+        "outputPath": "F:\\GitRepo\\Projects\\AdvApplicationDev\\TestMVCProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\17788\\AppData\\Roaming\\NuGet\\NuGet.Config",
