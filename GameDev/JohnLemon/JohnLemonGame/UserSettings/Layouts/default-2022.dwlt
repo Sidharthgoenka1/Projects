@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -467,7 +467,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/UnityTechnologies/3DBeginnerTutorialComplete
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -475,16 +475,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/UnityTechnologies/3DBeginnerTutorialComplete
   m_LastFoldersGridSize: 67
   m_LastProjectPath: F:\GitRepo\Projects\GameDev\JohnLemon\JohnLemonGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f87a0000
-    m_LastClickedID: 31480
-    m_ExpandedIDs: 00000000e6790000f87a000000ca9a3bffffff7f
+    m_SelectedIDs: 4c7c0000
+    m_LastClickedID: 31820
+    m_ExpandedIDs: 00000000147b0000287c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,7 +512,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e6790000
+    m_ExpandedIDs: 00000000147b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -539,7 +539,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -654,8 +654,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 205c0000
-      m_LastClickedID: 23584
+      m_SelectedIDs: 0a5c0000
+      m_LastClickedID: 0
       m_ExpandedIDs: eafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1037,9 +1037,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 38.97101, y: 29.037651, z: 47.279984}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 38.97101, y: 29.037651, z: 47.279984}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
