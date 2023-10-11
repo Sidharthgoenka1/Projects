@@ -23,6 +23,7 @@ namespace MyWpfApp
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new MainViewModel();
         }
     }
 }
