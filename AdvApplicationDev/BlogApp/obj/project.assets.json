@@ -1319,11 +1319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\GitRepo\\Projects\\AdvApplicationDev\\BlogApp\\BlogApp.csproj",
+      "projectUniqueName": "F:\\GitRepo\\Projects\\AdvApplicationDev\\BlogApp\\BlogApp.csproj",
       "projectName": "BlogApp",
-      "projectPath": "f:\\GitRepo\\Projects\\AdvApplicationDev\\BlogApp\\BlogApp.csproj",
+      "projectPath": "F:\\GitRepo\\Projects\\AdvApplicationDev\\BlogApp\\BlogApp.csproj",
       "packagesPath": "C:\\Users\\17788\\.nuget\\packages\\",
-      "outputPath": "f:\\GitRepo\\Projects\\AdvApplicationDev\\BlogApp\\obj\\",
+      "outputPath": "F:\\GitRepo\\Projects\\AdvApplicationDev\\BlogApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\17788\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1386,7 +1386,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
