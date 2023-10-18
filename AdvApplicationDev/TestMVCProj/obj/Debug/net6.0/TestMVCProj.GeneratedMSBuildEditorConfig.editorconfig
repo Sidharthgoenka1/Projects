@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\GitRepo\Projects\AdvApplicationDev\TestMVCProj
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Author/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXENyZWF0ZUF1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Author/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Author/IndexAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4QXV0aG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Book/BookDetails.cshtml]
@@ -27,8 +35,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGVCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Customer/CreateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Customer/IndexCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXhDdXN0b21lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Home/Index.cshtml]
@@ -39,8 +55,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/LibraryBranch/CreateLibraryBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxDcmVhdGVMaWJyYXJ5QnJhbmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/LibraryBranch/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/LibraryBranch/IndexLibraryBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeUJyYW5jaFxJbmRleExpYnJhcnlCcmFuY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/GitRepo/Projects/AdvApplicationDev/TestMVCProj/Views/Post/Create.cshtml]
