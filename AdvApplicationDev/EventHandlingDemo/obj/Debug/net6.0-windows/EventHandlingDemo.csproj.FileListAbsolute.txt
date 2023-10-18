@@ -1,0 +1,15 @@
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\bin\Debug\net6.0-windows\EventHandlingDemo.exe
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\bin\Debug\net6.0-windows\EventHandlingDemo.deps.json
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\bin\Debug\net6.0-windows\EventHandlingDemo.runtimeconfig.json
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\bin\Debug\net6.0-windows\EventHandlingDemo.dll
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\bin\Debug\net6.0-windows\EventHandlingDemo.pdb
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.csproj.AssemblyReference.cache
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.AssemblyInfoInputs.cache
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.AssemblyInfo.cs
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.csproj.CoreCompileInputs.cache
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.dll
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\refint\EventHandlingDemo.dll
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.pdb
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\EventHandlingDemo.genruntimeconfig.cache
+F:\GitRepo\Projects\AdvApplicationDev\EventHandlingDemo\obj\Debug\net6.0-windows\ref\EventHandlingDemo.dll
