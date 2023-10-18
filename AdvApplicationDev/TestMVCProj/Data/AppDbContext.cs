@@ -8,6 +8,8 @@ public class AppDbContext : DbContext
 
         public DbSet<Models.Book> Books { get; set; }
 
+        public DbSet<Models.LibraryBranch> LibraryBranch { get; set; }
+
         private readonly IConfiguration _configuration;
         public AppDbContext(IConfiguration configuration)
         {

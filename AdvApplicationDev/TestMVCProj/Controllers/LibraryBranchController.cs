@@ -6,22 +6,51 @@ namespace TestMVCProj.Controllers
 {
     public class LibraryBranchController : Controller
     {
-        public IActionResult Details(int id)
+        private readonly AppDbContext _dbContext;
+
+        public LibraryBranchController(AppDbContext dbContext)
         {
+            _dbContext = dbContext;
+        }
 
-            LibraryBranch branch = new LibraryBranch
-            {
-                LibraryBranchId = 1,
-                BranchName = "Main Branch"
-            };
+        public IActionResult IndexLibraryBranch()
+        {
+            var branches = _dbContext.LibraryBranch.ToList();
+            return View(branches);
+        }
 
-            LibraryBranchViewModel viewModel = new LibraryBranchViewModel
-            {
-                LibraryBranchId = branch.LibraryBranchId,
-                BranchName = branch.BranchName
-            };
+        public IActionResult CreateLibraryBranch()
+        {
+            return View();
+        }
 
-            return View(viewModel);
-         }
+        [HttpPost]
+        public IActionResult CreateLibraryBranch(LibraryBranch branch)
+        {
+            
+            _dbContext.LibraryBranch.Add(branch);
+            _dbContext.SaveChanges();
+            return RedirectToAction("IndexLibraryBranch");
+        }
+
+
+
+        // public IActionResult Details(int id)
+        // {
+
+        //     LibraryBranch branch = new LibraryBranch
+        //     {
+        //         LibraryBranchId = 1,
+        //         BranchName = "Main Branch"
+        //     };
+
+        //     LibraryBranchViewModel viewModel = new LibraryBranchViewModel
+        //     {
+        //         LibraryBranchId = branch.LibraryBranchId,
+        //         BranchName = branch.BranchName
+        //     };
+
+        //     return View(viewModel);
+        //  }
     }
 }
