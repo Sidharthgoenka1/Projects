@@ -2,12 +2,7 @@
 
 <h2>Create Library Branch</h2>
 
-<form asp-controller="Post" asp-action="Create" method="post">
-    <div class="form-group">
-        <label asp-for="LibraryBranchId"></label>
-        <input asp-for="LibraryBranchId" class="form-control" />
-        <span asp-validation-for="LibraryBranchId" class="text-danger"></span>
-    </div>
+<form asp-controller="LibraryBranch" asp-action="CreateLibraryBranch" method="post">
     <div class="form-group">
         <label asp-for="BranchName"></label>
         <textarea asp-for="BranchName" class="form-control"></textarea>
