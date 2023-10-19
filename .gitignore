@@ -7,3 +7,4 @@ AdvApplicationDev/BlogApp/obj/Debug/net6.0/BlogApp.csproj.AssemblyReference.cach
 AdvApplicationDev/BlogApp/obj/Debug/net6.0/project.razor.vscode.json
 *.bin
 *.sentinel
+AdvApplicationDev/TestMVCProj/obj/staticwebassets.pack.sentinel
