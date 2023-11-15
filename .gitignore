@@ -9,3 +9,5 @@ AdvApplicationDev/BlogApp/obj/Debug/net6.0/project.razor.vscode.json
 *.sentinel
 AdvApplicationDev/TestMVCProj/obj/staticwebassets.pack.sentinel
 *.sentinel
+*.db-shm
+*.db-wal
