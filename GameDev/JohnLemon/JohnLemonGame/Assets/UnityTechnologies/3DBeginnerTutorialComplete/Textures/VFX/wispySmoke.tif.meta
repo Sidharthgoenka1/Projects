@@ -94,3 +94,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143848
+  packageName: 'Unity Learn | 3D Beginner: Tutorial Resources'
+  packageVersion: 1.4
+  assetPath: Assets/UnityTechnologies/3DBeginnerTutorialComplete/Textures/VFX/wispySmoke.tif
+  uploadId: 623030

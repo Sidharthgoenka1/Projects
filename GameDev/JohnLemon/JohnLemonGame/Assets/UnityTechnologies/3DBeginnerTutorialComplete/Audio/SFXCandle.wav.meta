@@ -20,3 +20,10 @@ AudioImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143848
+  packageName: 'Unity Learn | 3D Beginner: Tutorial Resources'
+  packageVersion: 1.4
+  assetPath: Assets/UnityTechnologies/3DBeginnerTutorialComplete/Audio/SFXCandle.wav
+  uploadId: 623030

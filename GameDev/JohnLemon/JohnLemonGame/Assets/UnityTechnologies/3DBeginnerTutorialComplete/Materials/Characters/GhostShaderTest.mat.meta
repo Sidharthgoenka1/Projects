@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 169d179f5419106418462c513f9685ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143848
+  packageName: 'Unity Learn | 3D Beginner: Tutorial Resources'
+  packageVersion: 1.4
+  assetPath: Assets/UnityTechnologies/3DBeginnerTutorialComplete/Materials/Characters/GhostShaderTest.mat
+  uploadId: 623030
