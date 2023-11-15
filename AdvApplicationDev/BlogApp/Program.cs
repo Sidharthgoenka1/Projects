@@ -30,3 +30,5 @@ app.MapControllerRoute(
     pattern: "{controller=Post}/{action=Index}/{id?}");
 
 app.Run();
+
+public partial class Program { }
