@@ -8,3 +8,4 @@ AdvApplicationDev/BlogApp/obj/Debug/net6.0/project.razor.vscode.json
 *.bin
 *.sentinel
 AdvApplicationDev/TestMVCProj/obj/staticwebassets.pack.sentinel
+*.sentinel
