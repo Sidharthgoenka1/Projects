@@ -1,0 +1,7 @@
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\obj\Debug\net6.0\BlogApp.IntegrationTests.csproj.AssemblyReference.cache
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\obj\Debug\net6.0\BlogApp.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\obj\Debug\net6.0\BlogApp.IntegrationTests.AssemblyInfoInputs.cache
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\obj\Debug\net6.0\BlogApp.IntegrationTests.AssemblyInfo.cs
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\obj\Debug\net6.0\BlogApp.IntegrationTests.csproj.CoreCompileInputs.cache
+F:\GitRepo\Projects\AdvApplicationDev\BlogApp.IntegrationTests\obj\Debug\net6.0\BlogApp.IntegrationTests.sourcelink.json
