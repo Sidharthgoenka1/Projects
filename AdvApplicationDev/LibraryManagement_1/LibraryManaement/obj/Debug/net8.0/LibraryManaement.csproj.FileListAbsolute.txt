@@ -132,3 +132,4 @@ F:\GitRepo\Projects\AdvApplicationDev\LibraryManagement_1\LibraryManaement\obj\D
 F:\GitRepo\Projects\AdvApplicationDev\LibraryManagement_1\LibraryManaement\obj\Debug\net8.0\LibraryManaement.genruntimeconfig.cache
 F:\GitRepo\Projects\AdvApplicationDev\LibraryManagement_1\LibraryManaement\obj\Debug\net8.0\ref\LibraryManaement.dll
 F:\GitRepo\Projects\AdvApplicationDev\LibraryManagement_1\LibraryManaement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\GitRepo\Projects\AdvApplicationDev\LibraryManagement_1\LibraryManaement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css

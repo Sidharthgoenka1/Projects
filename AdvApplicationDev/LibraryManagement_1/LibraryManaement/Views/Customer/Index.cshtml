@@ -1,0 +1,22 @@
+@model List<LibraryManaement.Models.Customer>
+
+<h2>Customers</h2>
+<a href="@Url.Action("Create", "Customer")" class="btn btn-primary" style="margin: 10px;">Create Customer</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>CustomerId</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.CustomerId</td>
+                <td>@customer.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
