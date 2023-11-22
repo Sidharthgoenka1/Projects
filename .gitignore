@@ -11,3 +11,7 @@ AdvApplicationDev/TestMVCProj/obj/staticwebassets.pack.sentinel
 *.sentinel
 *.db-shm
 *.db-wal
+*.dll
+*.exe
+*.pdb
+*.json
