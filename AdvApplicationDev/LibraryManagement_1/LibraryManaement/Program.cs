@@ -14,6 +14,19 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
 
+builder.Services.AddAuthentication().AddGoogle(googleOptions =>
+    {
+        googleOptions.ClientId = builder.Configuration["Authentication:Google:ClientId"];
+        googleOptions.ClientSecret = builder.Configuration["Authentication:Google:ClientSecret"];
+    });
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+options.Cookie.SameSite = SameSiteMode.None;
+options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
