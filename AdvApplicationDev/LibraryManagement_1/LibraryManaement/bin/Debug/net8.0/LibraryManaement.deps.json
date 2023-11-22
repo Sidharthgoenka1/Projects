@@ -9,6 +9,7 @@
       "LibraryManaement/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Google": "7.0.12",
+          "Microsoft.AspNetCore.Authentication.Twitter": "8.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
           "Microsoft.AspNetCore.Identity.UI": "8.0.0",
@@ -34,6 +35,14 @@
           "lib/net7.0/Microsoft.AspNetCore.Authentication.Google.dll": {
             "assemblyVersion": "7.0.12.0",
             "fileVersion": "7.0.1223.47922"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Twitter/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.Twitter.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53112"
           }
         }
       },
@@ -735,6 +744,13 @@
       "sha512": "sha512-9rn7aZpSWLf6P2yUAXeY8KKwAkAyTVQDQJzGNXN6ESObEim0Qt7CKnhlBvtOdxmX2BJc5rEmCHmvUwPCX/JKEA==",
       "path": "microsoft.aspnetcore.authentication.google/7.0.12",
       "hashPath": "microsoft.aspnetcore.authentication.google.7.0.12.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Twitter/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YohIB2dkA5lq7nij1vCeEZmz96zhaWdAsI5KQcyb9/zvI4sBPU5mNTokvLOMePemuJaTDaeTln922kKQ9rgbfA==",
+      "path": "microsoft.aspnetcore.authentication.twitter/8.0.0",
+      "hashPath": "microsoft.aspnetcore.authentication.twitter.8.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.0": {
       "type": "package",
