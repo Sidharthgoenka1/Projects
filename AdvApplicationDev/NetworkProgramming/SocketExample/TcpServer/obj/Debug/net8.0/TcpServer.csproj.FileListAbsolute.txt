@@ -1,0 +1,15 @@
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\bin\Debug\net8.0\TcpServer.exe
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\bin\Debug\net8.0\TcpServer.deps.json
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\bin\Debug\net8.0\TcpServer.runtimeconfig.json
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\bin\Debug\net8.0\TcpServer.dll
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\bin\Debug\net8.0\TcpServer.pdb
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfoInputs.cache
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfo.cs
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.csproj.CoreCompileInputs.cache
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.sourcelink.json
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.dll
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\refint\TcpServer.dll
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.pdb
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\TcpServer.genruntimeconfig.cache
+F:\GitRepo\Projects\AdvApplicationDev\NetworkProgramming\SocketExample\TcpServer\obj\Debug\net8.0\ref\TcpServer.dll
