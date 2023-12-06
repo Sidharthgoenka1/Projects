@@ -28,7 +28,7 @@ public class HomeController : Controller
     {
         if (statusCode.HasValue)
         {
-            if (statusCode == 404 || statusCode == 500)
+            if (statusCode == 404)
             {
                 var viewName = statusCode.ToString();
                 return View(viewName);
