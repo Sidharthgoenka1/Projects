@@ -1,4 +1,5 @@
-Command to run-> dotnet run --launch-profile https
+Open Project folder in VS code, Open Terminal and enter the following command to run the project
+Command-> dotnet run --launch-profile https
 URL -> https://localhost:7101/swagger/index.html
 
 Dependecies
