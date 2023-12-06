@@ -29,10 +29,20 @@ namespace LibraryManagementProject.Controllers
         [HttpPost]
         public IActionResult Create(LibraryBranch branch)
         {
-           
+            if(branch.BranchName == null){
+            return RedirectToAction("Errors");
+            }else {
             _dbContext.LibraryBranches.Add(branch);
             _dbContext.SaveChanges();
             return RedirectToAction("Index");
+            }
+           
+            
+        }
+
+        public IActionResult Errors()
+        {
+            return View("Errors");
         }
     }
 }

@@ -29,10 +29,18 @@ namespace LibraryManagementProject.Controllers
         [HttpPost]
         public IActionResult Create(Book book)
         {
-           
+           if(book.Title == null){
+            return RedirectToAction("Errors");
+           }else {
             _dbContext.Books.Add(book);
             _dbContext.SaveChanges();
             return RedirectToAction("Index");
+           }
+        }
+
+        public IActionResult Errors()
+        {
+            return View("Errors");
         }
     }
 }
